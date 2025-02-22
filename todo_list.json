@@ -1,0 +1,18 @@
+[
+    {
+        "task": "review paper",
+        "completed": true
+    },
+    {
+        "task": "eat dinner",
+        "completed": true
+    },
+    {
+        "task": "trim my hair",
+        "completed": true
+    },
+    {
+        "task": "make templates",
+        "completed": true
+    }
+]
